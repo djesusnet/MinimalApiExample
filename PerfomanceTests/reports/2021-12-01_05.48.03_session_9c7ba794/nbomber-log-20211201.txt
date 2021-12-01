@@ -1,0 +1,16 @@
+2021-12-01 02:48:38.144 -03:00 [INF] [ThreadId:1] NBomber '2.1.2' Started a new session: '2021-12-01_05.48.03_session_9c7ba794'.
+2021-12-01 02:48:38.233 -03:00 [INF] [ThreadId:1] NBomber started as single node.
+2021-12-01 02:48:38.303 -03:00 [INF] [ThreadId:4] Plugins: no plugins were loaded.
+2021-12-01 02:48:38.304 -03:00 [INF] [ThreadId:4] Reporting sinks: no reporting sinks were loaded.
+2021-12-01 02:48:38.304 -03:00 [INF] [ThreadId:4] Starting init...
+2021-12-01 02:48:38.317 -03:00 [INF] [ThreadId:4] Target scenarios: 'old_web_api', 'minimal_api'.
+2021-12-01 02:48:38.358 -03:00 [INF] [ThreadId:4] Start init client pool: 'nbomber_http_factory.old_web_api'.
+2021-12-01 02:48:39.370 -03:00 [INF] [ThreadId:4] Start init client pool: 'nbomber_http_factory.minimal_api'.
+2021-12-01 02:48:40.386 -03:00 [INF] [ThreadId:4] Init finished.
+2021-12-01 02:48:40.388 -03:00 [INF] [ThreadId:6] Starting warm up...
+2021-12-01 02:48:46.427 -03:00 [INF] [ThreadId:6] Starting bombing...
+2021-12-01 02:49:47.442 -03:00 [INF] [ThreadId:54] Stopping scenarios...
+2021-12-01 02:49:47.454 -03:00 [INF] [ThreadId:54] Start disposing client pool: 'nbomber_http_factory.old_web_api'.
+2021-12-01 02:49:48.468 -03:00 [INF] [ThreadId:54] Start disposing client pool: 'nbomber_http_factory.minimal_api'.
+2021-12-01 02:49:49.481 -03:00 [INF] [ThreadId:54] Calculating final statistics...
+2021-12-01 02:49:49.755 -03:00 [INF] [ThreadId:54] Reports saved in folder: 'D:\Projetos\repo\PerfomanceTests\reports\2021-12-01_05.48.03_session_9c7ba794'

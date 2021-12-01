@@ -1,0 +1,56 @@
+2021-12-01 02:40:38.892 -03:00 [INF] [ThreadId:1] NBomber '2.1.2' Started a new session: '2021-12-01_05.40.78_session_e1c5e26'.
+2021-12-01 02:40:38.978 -03:00 [INF] [ThreadId:1] NBomber started as single node.
+2021-12-01 02:40:39.049 -03:00 [INF] [ThreadId:4] Plugins: no plugins were loaded.
+2021-12-01 02:40:39.050 -03:00 [INF] [ThreadId:4] Reporting sinks: no reporting sinks were loaded.
+2021-12-01 02:40:39.052 -03:00 [INF] [ThreadId:4] Starting init...
+2021-12-01 02:40:39.070 -03:00 [INF] [ThreadId:4] Target scenarios: 'old_web_api', 'minimal_api'.
+2021-12-01 02:40:39.110 -03:00 [INF] [ThreadId:4] Start init client pool: 'nbomber_http_factory.old_web_api'.
+2021-12-01 02:40:40.127 -03:00 [INF] [ThreadId:4] Start init client pool: 'nbomber_http_factory.minimal_api'.
+2021-12-01 02:40:41.154 -03:00 [INF] [ThreadId:4] Init finished.
+2021-12-01 02:40:41.157 -03:00 [INF] [ThreadId:6] Starting warm up...
+2021-12-01 02:40:43.267 -03:00 [FTL] [ThreadId:15] Step 'old_web_api_step' from scenario 'old_web_api' has failed. Error: step timeout
+2021-12-01 02:40:43.267 -03:00 [FTL] [ThreadId:16] Step 'old_web_api_step' from scenario 'old_web_api' has failed. Error: step timeout
+2021-12-01 02:40:43.267 -03:00 [FTL] [ThreadId:17] Step 'old_web_api_step' from scenario 'old_web_api' has failed. Error: step timeout
+2021-12-01 02:40:43.267 -03:00 [FTL] [ThreadId:11] Step 'old_web_api_step' from scenario 'old_web_api' has failed. Error: step timeout
+2021-12-01 02:40:43.267 -03:00 [FTL] [ThreadId:19] Step 'old_web_api_step' from scenario 'old_web_api' has failed. Error: step timeout
+2021-12-01 02:40:43.267 -03:00 [FTL] [ThreadId:9] Step 'old_web_api_step' from scenario 'old_web_api' has failed. Error: step timeout
+2021-12-01 02:40:43.281 -03:00 [FTL] [ThreadId:18] Step 'old_web_api_step' from scenario 'old_web_api' has failed. Error: step timeout
+2021-12-01 02:40:43.282 -03:00 [FTL] [ThreadId:14] Step 'old_web_api_step' from scenario 'old_web_api' has failed. Error: step timeout
+2021-12-01 02:40:43.283 -03:00 [FTL] [ThreadId:10] Step 'old_web_api_step' from scenario 'old_web_api' has failed. Error: step timeout
+2021-12-01 02:40:43.284 -03:00 [FTL] [ThreadId:17] Step 'old_web_api_step' from scenario 'old_web_api' has failed. Error: step timeout
+2021-12-01 02:40:44.278 -03:00 [FTL] [ThreadId:4] Step 'old_web_api_step' from scenario 'old_web_api' has failed. Error: step timeout
+2021-12-01 02:40:44.278 -03:00 [FTL] [ThreadId:17] Step 'old_web_api_step' from scenario 'old_web_api' has failed. Error: step timeout
+2021-12-01 02:40:44.279 -03:00 [FTL] [ThreadId:15] Step 'old_web_api_step' from scenario 'old_web_api' has failed. Error: step timeout
+2021-12-01 02:40:44.279 -03:00 [FTL] [ThreadId:11] Step 'old_web_api_step' from scenario 'old_web_api' has failed. Error: step timeout
+2021-12-01 02:40:44.280 -03:00 [FTL] [ThreadId:15] Step 'old_web_api_step' from scenario 'old_web_api' has failed. Error: step timeout
+2021-12-01 02:40:44.280 -03:00 [FTL] [ThreadId:13] Step 'old_web_api_step' from scenario 'old_web_api' has failed. Error: step timeout
+2021-12-01 02:40:44.295 -03:00 [FTL] [ThreadId:19] Step 'old_web_api_step' from scenario 'old_web_api' has failed. Error: step timeout
+2021-12-01 02:40:44.295 -03:00 [FTL] [ThreadId:16] Step 'old_web_api_step' from scenario 'old_web_api' has failed. Error: step timeout
+2021-12-01 02:40:44.295 -03:00 [FTL] [ThreadId:17] Step 'old_web_api_step' from scenario 'old_web_api' has failed. Error: step timeout
+2021-12-01 02:40:44.295 -03:00 [FTL] [ThreadId:17] Step 'old_web_api_step' from scenario 'old_web_api' has failed. Error: step timeout
+2021-12-01 02:40:45.278 -03:00 [FTL] [ThreadId:17] Step 'old_web_api_step' from scenario 'old_web_api' has failed. Error: step timeout
+2021-12-01 02:40:45.292 -03:00 [FTL] [ThreadId:9] Step 'old_web_api_step' from scenario 'old_web_api' has failed. Error: step timeout
+2021-12-01 02:40:45.292 -03:00 [FTL] [ThreadId:19] Step 'old_web_api_step' from scenario 'old_web_api' has failed. Error: step timeout
+2021-12-01 02:40:45.292 -03:00 [FTL] [ThreadId:17] Step 'old_web_api_step' from scenario 'old_web_api' has failed. Error: step timeout
+2021-12-01 02:40:45.293 -03:00 [FTL] [ThreadId:4] Step 'old_web_api_step' from scenario 'old_web_api' has failed. Error: step timeout
+2021-12-01 02:40:45.293 -03:00 [FTL] [ThreadId:15] Step 'old_web_api_step' from scenario 'old_web_api' has failed. Error: step timeout
+2021-12-01 02:40:45.307 -03:00 [FTL] [ThreadId:16] Step 'old_web_api_step' from scenario 'old_web_api' has failed. Error: step timeout
+2021-12-01 02:40:45.307 -03:00 [FTL] [ThreadId:9] Step 'old_web_api_step' from scenario 'old_web_api' has failed. Error: step timeout
+2021-12-01 02:40:45.307 -03:00 [FTL] [ThreadId:19] Step 'old_web_api_step' from scenario 'old_web_api' has failed. Error: step timeout
+2021-12-01 02:40:45.308 -03:00 [FTL] [ThreadId:14] Step 'old_web_api_step' from scenario 'old_web_api' has failed. Error: step timeout
+2021-12-01 02:40:46.281 -03:00 [FTL] [ThreadId:6] Step 'old_web_api_step' from scenario 'old_web_api' has failed. Error: step timeout
+2021-12-01 02:40:46.296 -03:00 [FTL] [ThreadId:15] Step 'old_web_api_step' from scenario 'old_web_api' has failed. Error: step timeout
+2021-12-01 02:40:46.296 -03:00 [FTL] [ThreadId:11] Step 'old_web_api_step' from scenario 'old_web_api' has failed. Error: step timeout
+2021-12-01 02:40:46.296 -03:00 [FTL] [ThreadId:60] Step 'old_web_api_step' from scenario 'old_web_api' has failed. Error: step timeout
+2021-12-01 02:40:46.297 -03:00 [FTL] [ThreadId:55] Step 'old_web_api_step' from scenario 'old_web_api' has failed. Error: step timeout
+2021-12-01 02:40:46.297 -03:00 [FTL] [ThreadId:15] Step 'old_web_api_step' from scenario 'old_web_api' has failed. Error: step timeout
+2021-12-01 02:40:46.312 -03:00 [FTL] [ThreadId:60] Step 'old_web_api_step' from scenario 'old_web_api' has failed. Error: step timeout
+2021-12-01 02:40:46.312 -03:00 [FTL] [ThreadId:60] Step 'old_web_api_step' from scenario 'old_web_api' has failed. Error: step timeout
+2021-12-01 02:40:46.313 -03:00 [FTL] [ThreadId:20] Step 'old_web_api_step' from scenario 'old_web_api' has failed. Error: step timeout
+2021-12-01 02:40:46.313 -03:00 [FTL] [ThreadId:20] Step 'old_web_api_step' from scenario 'old_web_api' has failed. Error: step timeout
+2021-12-01 02:40:48.216 -03:00 [INF] [ThreadId:20] Starting bombing...
+2021-12-01 02:41:49.248 -03:00 [INF] [ThreadId:67] Stopping scenarios...
+2021-12-01 02:41:49.257 -03:00 [INF] [ThreadId:67] Start disposing client pool: 'nbomber_http_factory.old_web_api'.
+2021-12-01 02:41:50.272 -03:00 [INF] [ThreadId:67] Start disposing client pool: 'nbomber_http_factory.minimal_api'.
+2021-12-01 02:41:51.288 -03:00 [INF] [ThreadId:67] Calculating final statistics...
+2021-12-01 02:41:51.692 -03:00 [INF] [ThreadId:67] Reports saved in folder: 'D:\Projetos\repo\PerfomanceTests\reports\2021-12-01_05.40.78_session_e1c5e26'

@@ -1,0 +1,36 @@
+2021-12-01 03:02:54.893 -03:00 [INF] [ThreadId:1] NBomber '2.1.2' Started a new session: '2021-12-01_06.02.79_session_bd0483fe'.
+2021-12-01 03:02:54.981 -03:00 [INF] [ThreadId:1] NBomber started as single node.
+2021-12-01 03:02:55.050 -03:00 [INF] [ThreadId:4] Plugins: no plugins were loaded.
+2021-12-01 03:02:55.051 -03:00 [INF] [ThreadId:4] Reporting sinks: no reporting sinks were loaded.
+2021-12-01 03:02:55.051 -03:00 [INF] [ThreadId:4] Starting init...
+2021-12-01 03:02:55.066 -03:00 [INF] [ThreadId:4] Target scenarios: 'old_web_api', 'minimal_api'.
+2021-12-01 03:02:55.109 -03:00 [INF] [ThreadId:4] Start init client pool: 'nbomber_http_factory.old_web_api'.
+2021-12-01 03:02:56.121 -03:00 [INF] [ThreadId:4] Start init client pool: 'nbomber_http_factory.minimal_api'.
+2021-12-01 03:02:57.139 -03:00 [INF] [ThreadId:4] Init finished.
+2021-12-01 03:02:57.141 -03:00 [INF] [ThreadId:6] Starting warm up...
+2021-12-01 03:02:59.250 -03:00 [FTL] [ThreadId:11] Step 'minimal_api_step' from scenario 'minimal_api' has failed. Error: step timeout
+2021-12-01 03:02:59.250 -03:00 [FTL] [ThreadId:17] Step 'minimal_api_step' from scenario 'minimal_api' has failed. Error: step timeout
+2021-12-01 03:02:59.250 -03:00 [FTL] [ThreadId:14] Step 'minimal_api_step' from scenario 'minimal_api' has failed. Error: step timeout
+2021-12-01 03:02:59.250 -03:00 [FTL] [ThreadId:16] Step 'minimal_api_step' from scenario 'minimal_api' has failed. Error: step timeout
+2021-12-01 03:02:59.250 -03:00 [FTL] [ThreadId:19] Step 'old_web_api_step' from scenario 'old_web_api' has failed. Error: step timeout
+2021-12-01 03:02:59.250 -03:00 [FTL] [ThreadId:6] Step 'old_web_api_step' from scenario 'old_web_api' has failed. Error: step timeout
+2021-12-01 03:02:59.250 -03:00 [FTL] [ThreadId:15] Step 'minimal_api_step' from scenario 'minimal_api' has failed. Error: step timeout
+2021-12-01 03:02:59.262 -03:00 [FTL] [ThreadId:4] Step 'old_web_api_step' from scenario 'old_web_api' has failed. Error: step timeout
+2021-12-01 03:02:59.264 -03:00 [FTL] [ThreadId:19] Step 'old_web_api_step' from scenario 'old_web_api' has failed. Error: step timeout
+2021-12-01 03:02:59.264 -03:00 [FTL] [ThreadId:9] Step 'minimal_api_step' from scenario 'minimal_api' has failed. Error: step timeout
+2021-12-01 03:02:59.264 -03:00 [FTL] [ThreadId:4] Step 'minimal_api_step' from scenario 'minimal_api' has failed. Error: step timeout
+2021-12-01 03:02:59.264 -03:00 [FTL] [ThreadId:14] Step 'old_web_api_step' from scenario 'old_web_api' has failed. Error: step timeout
+2021-12-01 03:02:59.264 -03:00 [FTL] [ThreadId:6] Step 'old_web_api_step' from scenario 'old_web_api' has failed. Error: step timeout
+2021-12-01 03:02:59.265 -03:00 [FTL] [ThreadId:15] Step 'old_web_api_step' from scenario 'old_web_api' has failed. Error: step timeout
+2021-12-01 03:02:59.265 -03:00 [FTL] [ThreadId:13] Step 'minimal_api_step' from scenario 'minimal_api' has failed. Error: step timeout
+2021-12-01 03:02:59.265 -03:00 [FTL] [ThreadId:10] Step 'old_web_api_step' from scenario 'old_web_api' has failed. Error: step timeout
+2021-12-01 03:02:59.265 -03:00 [FTL] [ThreadId:19] Step 'old_web_api_step' from scenario 'old_web_api' has failed. Error: step timeout
+2021-12-01 03:02:59.265 -03:00 [FTL] [ThreadId:20] Step 'minimal_api_step' from scenario 'minimal_api' has failed. Error: step timeout
+2021-12-01 03:02:59.265 -03:00 [FTL] [ThreadId:17] Step 'old_web_api_step' from scenario 'old_web_api' has failed. Error: step timeout
+2021-12-01 03:02:59.266 -03:00 [FTL] [ThreadId:18] Step 'minimal_api_step' from scenario 'minimal_api' has failed. Error: step timeout
+2021-12-01 03:03:03.195 -03:00 [INF] [ThreadId:11] Starting bombing...
+2021-12-01 03:04:04.215 -03:00 [INF] [ThreadId:11] Stopping scenarios...
+2021-12-01 03:04:04.227 -03:00 [INF] [ThreadId:11] Start disposing client pool: 'nbomber_http_factory.old_web_api'.
+2021-12-01 03:04:05.234 -03:00 [INF] [ThreadId:11] Start disposing client pool: 'nbomber_http_factory.minimal_api'.
+2021-12-01 03:04:06.244 -03:00 [INF] [ThreadId:11] Calculating final statistics...
+2021-12-01 03:04:06.511 -03:00 [INF] [ThreadId:11] Reports saved in folder: 'D:\Projetos\repo\PerfomanceTests\reports\2021-12-01_06.02.79_session_bd0483fe'

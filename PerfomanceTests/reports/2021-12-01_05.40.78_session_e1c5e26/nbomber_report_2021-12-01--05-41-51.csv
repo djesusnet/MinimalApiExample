@@ -1,0 +1,2 @@
+test_suite,test_name,scenario,duration,step_name,request_count,ok,failed,rps,min,mean,max,50_percent,75_percent,95_percent,99_percent,std_dev,data_transfer_min_kb,data_transfer_mean_kb,data_transfer_max_kb,data_transfer_all_mb
+nbomber_default_test_suite_name,nbomber_default_test_name,old_web_api,00:01:00,old_web_api_step,24219,24219,0,403,6,10,12,24,75,57,75,24,34,26,82,31,66,37,47,4,0,0,0,0nbomber_default_test_suite_name,nbomber_default_test_name,minimal_api,00:01:00,minimal_api_step,24494,24494,0,408,2,10,35,24,47,57,33,24,1,26,58,31,33,36,54,3,97,0,0,0,0
